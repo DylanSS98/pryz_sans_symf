@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&display=swap");
+.myroko {
+  color: #BE1A1B;
+}
+
+.fyrox {
+  color: #52AAFC;
+}
+
+.cazertox {
+  color: #FB8527;
+}
+
+.leetro {
+  color: #BE1A1B;
+}
+
+.navbarre {
+  position: relative;
+  top: 0;
+  width: 100%;
+  background-color: #222222;
+  padding-bottom: 30px;
+  padding-top: 2%;
+  box-shadow: 1px 1px 5px #f1f2f3;
+}
+.navbarre hr {
+  background-color: #f1f2f3;
+  width: 90%;
+  opacity: 0.5;
+}
+.navbarre .navmembre {
+  display: flex;
+  justify-content: space-around;
+}
+.navbarre .navmembre a {
+  color: #f1f2f3;
+}
+.navbarre .navmembre a:hover {
+  text-decoration: none !important;
+  transform: scale(1.2);
+  transition-duration: 0.5s;
+}
+.navbarre .navmembre .myrokonav:hover {
+  color: #BE1A1B;
+}
+.navbarre .navmembre .fyroxnav:hover {
+  color: #52AAFC;
+}
+.navbarre .navmembre .cazertoxnav:hover {
+  color: #FB8527;
+}
+.navbarre .navmembre .leetronav:hover {
+  color: #BE1A1B;
+}
+
+footer {
+  background-color: #222222;
+  width: 100%;
+  box-shadow: 1px 1px 5px #f1f2f3;
+  padding: 15px 0;
+}
+footer p {
+  text-align: center;
+  margin: unset;
+}
+
+* {
+  list-style-type: none !important;
+  text-decoration: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+#corps {
+  background: no-repeat url("../img/jack-b-YHFaMjk4uVo-unsplash.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+body {
+  background-color: #1E1A1A;
+  color: #F3F3F3;
+  font-family: "Kanit", sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.titrehome {
+  margin-top: 5%;
+  text-align: center;
+}
+
+.carou {
+  margin: 10% 0 10% 29%;
+  width: 40%;
+}
+
+.imgteam {
+  display: flex;
+  margin: 10% auto;
+}
+
+.logo_team {
+  width: 30%;
+  margin-top: 2%;
+}
+
+.imgdesc {
+  width: 500px;
+  height: 500px;
+}
+
+.grid {
+  display: flex;
+  justify-content: space-around;
+  margin: 10% 0;
+}
+
+.grid2 ul li {
+  margin: 10% 0;
+}
+
+.card {
+  background-color: #ffffff;
+  width: 400px;
+  height: 300px;
+}
+.card img {
+  width: 100%;
+  height: 80%;
+}
+.card p {
+  color: #222222;
+  text-align: center;
+}
+
+.maingame {
+  display: flex;
+  justify-content: center;
+}
+
+.secondarygame {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10%;
+}
+
+.twitch {
+  margin-left: 20%;
+}
+
+@media screen and (max-width: 1025px) {
+  .secondarygame {
+    align-items: center;
+    flex-direction: column;
+  }
+
+  #corps {
+    background: #1E1A1A;
+  }
+  #corps header {
+    font-size: 1.8em;
+    margin-bottom: 20%;
+  }
+  #corps .titrehome {
+    font-size: 3em;
+  }
+  #corps .logo_team {
+    width: 50%;
+    margin-top: 10%;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
