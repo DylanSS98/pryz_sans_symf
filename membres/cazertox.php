@@ -8,7 +8,7 @@
 <div class="grid">
 
     <div class="grid1">
-        <img class="imgdesc" src="../assets/img/logo_cazertox.jpg" alt="cazertox">
+        <img class="imgdesc" src="../assets/img/logo_cazertox.jpg" alt="cazertox" style="box-shadow: 0 0 10px #FB8527;">
     </div>
 
     <div class="grid2">

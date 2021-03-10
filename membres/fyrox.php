@@ -8,7 +8,7 @@
     <div class="grid">
 
         <div class="grid1">
-            <img class="imgdesc" src="../assets/img/logo_fyrox.png" alt="FYROX HD">
+            <img class="imgdesc" src="../assets/img/logo_fyrox_anim.gif" alt="FYROX HD" style="box-shadow: 0 0 10px #52AAFC;">
         </div>
 
         <div class="grid2">

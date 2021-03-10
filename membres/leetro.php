@@ -8,7 +8,7 @@
     <div class="grid">
 
         <div class="grid1">
-            <img class="imgdesc" src="../assets/img/logo_leetro.jpg" alt="">
+            <img class="imgdesc" src="../assets/img/logo_leetro.jpg" alt="" style="box-shadow: 0 0 10px #BE1A1B;">
         </div>
 
         <div class="grid2">

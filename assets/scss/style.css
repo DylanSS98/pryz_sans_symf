@@ -22,7 +22,7 @@
   background-color: #222222;
   padding-bottom: 30px;
   padding-top: 2%;
-  box-shadow: 1px 1px 5px #f1f2f3;
+  box-shadow: 1px 1px 5px #086AC6;
 }
 .navbarre hr {
   background-color: #f1f2f3;
@@ -94,7 +94,7 @@ h3 {
 }
 
 .titrehome {
-  margin-top: 5%;
+  padding-top: 5%;
   text-align: center;
 }
 
@@ -116,6 +116,7 @@ h3 {
 .imgdesc {
   width: 500px;
   height: 500px;
+  border-radius: 10px;
 }
 
 .grid {
@@ -150,11 +151,16 @@ h3 {
 .secondarygame {
   display: flex;
   justify-content: space-around;
-  margin-bottom: 10%;
+  padding-bottom: 10%;
 }
 
 .twitch {
   margin-left: 20%;
+}
+
+.membre {
+  background: no-repeat url("../img/fond_membre.jpg");
+  background-size: cover;
 }
 
 @media screen and (max-width: 1025px) {

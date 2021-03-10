@@ -32,7 +32,7 @@ h3{
     margin-top: 50px;
 }
 .titrehome{
-    margin-top: 5%;
+    padding-top: 5%;
     text-align: center;
 }
 
@@ -43,7 +43,6 @@ h3{
 }
 .imgteam{
     display: flex;
-
     margin: 10% auto;
 }
 .logo_team{
@@ -55,6 +54,7 @@ h3{
 .imgdesc{
     width: 500px;
     height: 500px;
+    border-radius: 10px;
 }
 
 .grid{
@@ -93,11 +93,17 @@ h3{
 .secondarygame{
     display: flex;
     justify-content: space-around;
-    margin-bottom: 10%;
+    padding-bottom: 10%;
 }
 
 .twitch{
     margin-left: 20%;
+}
+
+.membre{
+    background: no-repeat url("../img/fond_membre.jpg");
+    background-size: cover;
+
 }
 
 
