@@ -14,7 +14,7 @@
     <div class="grid2">
         <ul class="description">
             <li>L'une des premières recrue, membre pilier de la <strong>pryz</strong>.</li>
-
+            <hr>
             <li>Calme, réfléchis, ne perds jamais son sang-froid.</li>
 
             <li>Possède un Draven de génie et un très beau skin offert par <span class="fyrox">Fyrox</span>.</li>

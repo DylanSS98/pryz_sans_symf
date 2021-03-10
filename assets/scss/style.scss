@@ -11,7 +11,6 @@
 }
 
 #corps{
-
     background: no-repeat url("../img/jack-b-YHFaMjk4uVo-unsplash.jpg");
     height: 100vh;
     background-size: cover;
@@ -32,7 +31,7 @@ h3{
     margin-top: 50px;
 }
 .titrehome{
-    padding-top: 5%;
+    padding-top: 2%;
     text-align: center;
 }
 
@@ -65,8 +64,17 @@ h3{
 .grid1{
 
 }
+
+.grid2{
+    background: no-repeat url("../img/fond_bio.jpg");
+    border-radius: 10px;
+    box-shadow: 0 0 10px #f1f2f3;
+    width: 500px;
+    height: 500px;
+}
 .grid2 ul li{
-    margin: 10% 0;
+
+    margin: 8% 2%;
 }
 
 
